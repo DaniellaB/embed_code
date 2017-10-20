@@ -16,10 +16,10 @@
 	border: 2px solid #0077bd;  
 	text-align: center; 
 	font-family: 'Roboto', sans-serif; 
-	position: relative; 
-	position: fixed; 
-	left: 50%; 
-	margin-left: -307px; 
+  position: fixed;
+    top: 50%;
+    left: 50%;
+  transform: translate(-50%, -50%);
 	display: block;
 	z-index: 500; 
 	box-sizing: border-box; 
