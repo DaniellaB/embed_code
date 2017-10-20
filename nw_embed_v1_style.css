@@ -1,5 +1,6 @@
 #nw_embed_v1_button{
 	background: #fff;
+	display: inline-block ;
 }
 #nw_embed_v1_button>img{
 	margin:0 auto; 
