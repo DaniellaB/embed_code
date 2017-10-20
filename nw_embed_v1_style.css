@@ -1,0 +1,123 @@
+#nw_embed_v1_button{
+	background: #fff;
+	-webkit-border-radius: 28;
+	-moz-border-radius: 28;
+	border-radius: 28px; 
+	padding: 10px 20px 10px 20px;
+}
+#nw_embed_v1_button>img{
+	margin:0 auto; 
+	display:block;
+}
+
+.nw_embed_v1_clear {
+	clear:both;
+}
+.nw_embed_v1_new-window {
+	background: white; 
+	width: 614px; 
+	outline: 13px solid white; 
+	border: 2px solid #0077bd;  
+	text-align: center; 
+	font-family: 'Roboto', sans-serif; 
+	position: relative; 
+	position: fixed; 
+	left: 50%; 
+	margin-left: -307px; 
+	display: block;
+	z-index: 500; 
+	box-sizing: border-box; 
+	-moz-box-sizing: border-box; 
+	-webkit-box-sizing: border-box; 
+}
+.nw_embed_v1_new-window img {
+	margin: 17px auto 14px auto; 
+	max-width: 98%;
+}
+.nw_embed_v1_new-window-top {
+	width: 100%; 
+	background: #9bddfc; 
+	color: #0b76bd; 
+	font-size: 18px; 
+	line-height: 24px; 
+	padding: 7px 3px; 
+	text-transform: uppercase; 
+	box-sizing: border-box; 
+	-moz-box-sizing: border-box; 
+	-webkit-box-sizing: border-box;
+}
+.nw_embed_v1_new-window table {
+	color: #666666; 
+	font-size: 18px; 
+	line-height: 24px; 
+	width: 78%; 
+	margin: 0 auto; 
+	text-align: left;
+}
+.nw_embed_v1_new-window table img {margin: 0;}
+.nw_embed_v1_new-window table a {color: #666666; text-decoration: underline;}
+.nw_embed_v1_new-window table a:hover {color: #666666; text-decoration: none;}
+.nw_embed_v1_new-window table tr {border-bottom: 1px solid #0077bd;}
+.nw_embed_v1_new-window table tr:last-child {border: 0;}
+.nw_embed_v1_new-window table tr td {padding: 17px 0;}
+.nw_embed_v1_new-window-middle {
+	width: 100%; 
+	background: #f39100; 
+	color: white; 
+	font-size: 18px; 
+	line-height: 24px; 
+	padding: 8px 3px; 
+	text-transform: uppercase; 
+	box-sizing: border-box; 
+	-moz-box-sizing: border-box; 
+	-webkit-box-sizing: border-box;
+}
+.nw_embed_v1_new-window-middle a {color: white; text-decoration: underline;}
+.nw_embed_v1_new-window-middle a:hover {color: white; text-decoration: nobe;}
+.nw_embed_v1_new-window-column {
+	font-size: 16px; 
+	color: #9bddfc; 
+	text-align: center; 
+	text-transform: uppercase; 
+	font-family: 'Days One'; 
+	width: 30%; 
+	float: left; 
+	margin-bottom: 26px;
+}
+.nw_embed_v1_new-window-column-small {width: 20%;}
+.nw_embed_v1_new-window-column img {margin: 25px auto 13px auto; display: block;}
+.nw_embed_v1_new-window-bottom {
+	width: 100%; 
+	background: #0077bd; 
+	color: white; 
+	font-size: 12px; 
+	line-height: 16px; 
+	padding: 11px 3px; 
+	box-sizing: border-box; 
+	-moz-box-sizing: border-box; 
+	-webkit-box-sizing: border-box;
+}
+.nw_embed_v1_modal_close {
+	display: block; 
+	width: 8px; 
+	height: 8px; 
+	position: absolute; 
+	top: 20px; 
+	right: 20px; 
+	background: url(https://netwaechter.de/bitrix/templates/site/images/close.png) no-repeat center; 
+	cursor: pointer;
+	color:#0b76bd;
+}
+#nw_embed_v1_overlay {
+	z-index: 400; 
+	position: fixed; 
+	background-color: #000; 
+	opacity: 0.8; 
+	width: 100%; 
+	height: 100%; 
+	top: 0; 
+	left: 0; 
+	z-index: 100; 
+	cursor: pointer; 
+	display: block;
+}
