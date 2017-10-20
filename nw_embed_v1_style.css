@@ -1,9 +1,5 @@
 #nw_embed_v1_button{
 	background: #fff;
-	-webkit-border-radius: 28;
-	-moz-border-radius: 28;
-	border-radius: 28px; 
-	padding: 10px 20px 10px 20px;
 }
 #nw_embed_v1_button>img{
 	margin:0 auto; 
